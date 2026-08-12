@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Tushar</h1>
 <h3 align="center">Frontend Developer | B.Sc. Student | Prayagraj </h3>
 
-- 💻 Building projects with **HTML, CSS, JavaScript, and React.
-- 🎓 Currently studying B.Sc. and completing my NIELIT O-Level.
+- 💻 Building projects with **HTML, CSS, JavaScript, and React**.
+- 🎓 Currently studying B.Sc. and completing my **NIELIT O-Level**.
 - 🎨 Big fan of clean code and minimalist UI.
-- 📫 Hit me up at: [anubhavsingh43577@gmail.com]
+- 📫 Hit me up at: anubhavsingh43577@gmail.com
 - ⚡ Fun fact: Pure vegetarian!
 
  🛠️ Tech Stack & Tools:
@@ -19,11 +19,11 @@
 
  📊 GitHub Stats:
 <p align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=thetusharcodes&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thetusharcodes&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tushar-singh-743233384]">
+  <a href="https://linkedin.com/in/tushar-singh-743233384">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
